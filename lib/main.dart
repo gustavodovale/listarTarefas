@@ -52,7 +52,7 @@ class _ListaDeTarefasState extends State<ListaDeTarefas> {
       body: Column(
         children: [
           Padding(
-            padding: const EdgeInsets.all(7),
+            padding: const EdgeInsets.all(16),
             child: Row(
               children: [
                 Expanded(
